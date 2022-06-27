@@ -3,4 +3,4 @@ This is a package built in Golang that simulates playing around a deck of 52 car
 
 <img src="img/ShuffleX1.png" />
 
-You can use all function defined in the file deck.go at main.go when you run ShuffleX.
+You can use all functions defined in the file deck.go at main.go when you run ShuffleX.
